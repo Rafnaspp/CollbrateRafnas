@@ -3,6 +3,7 @@ import LandPage from '../../components/landPage/LandPage'
 
 const Land = () => {
   return (
+    
     <>
     <LandPage />
     </>
