@@ -14,7 +14,7 @@ const LandPage = () => {
         <img src="https://abgo.in/bloom/image/cart.png" alt="" />
       </div>
     </div>
-    <h1>BOOK YOUR SERVICES ONLINE</h1>
+    <h1>BOOK YOUR SERVICES ONLIN</h1>
     <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br /> Standard dummy text ever since the 1500s,  </p>
     <p>RAFNAS PP</p>
     </div>
