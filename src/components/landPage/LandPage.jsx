@@ -16,6 +16,7 @@ const LandPage = () => {
     </div>
     <h1>BOOK YOUR SERVICES ONLINE</h1>
     <p>Dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br /> Standard dummy text ever since the 1500s,  </p>
+    <p>RAFNAS PP</p>
     </div>
   )
 }
